@@ -7,7 +7,8 @@ function LandingPage (){
         <div className='landingPage'>
             <div className='navigation'>
 
-                <img src='src/Images/logo.png'></img>
+                <img src='/home/student/Documents/Apex-Simulation/Apex-Simulation/apex-simulation/src/Images/logo.png'></img>
+
 
             <nav>
                 <li>Home</li>
