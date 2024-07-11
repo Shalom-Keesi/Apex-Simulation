@@ -1,21 +1,24 @@
 import './index.css';
-import logo from '../Images/logo.png';
+
 
 
 function LandingPage (){
     return(
         <div className='landingPage'>
+            <div className='background-image'></div>
             <div className='navigation'>
 
-                <img src='/home/student/Documents/Apex-Simulation/Apex-Simulation/apex-simulation/src/Images/logo.png'></img>
+                <img src ="./Images/logo.png" alt ="" className="logo"></img>
 
 
             <nav>
+                <ul>
                 <li>Home</li>
                 <li>Our Products</li>
                 <li>About Us</li>
                 <li>Our Team</li>
                 <li>Contacts</li>
+                </ul>
             </nav>
 
             </div>
